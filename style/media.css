@@ -1,0 +1,3778 @@
+@media (max-width: 1805px){
+    .about_hid {
+        height: 254px;
+    }
+    .finland {
+        left: 41%;
+    }
+}
+
+
+@media (max-width: 1670px){
+    .spirit_bg {
+        height: 1130px;
+    }
+    #spirit .f_txt {
+        padding-top: 268px;
+    }
+    .arrow {
+        bottom: 22px;
+    }
+    .bg-video ,.menu_saim{
+        height: 740px;
+    }
+    .saima .saimaa_page h4 {
+        font-size: 54px;
+        margin: 8px 0 14px;
+    }
+    .saima .prod_logo {
+        width: 15.4%;
+        margin: 0 auto;
+    }
+    .saima .menu_saim li {
+        margin-bottom: 17px;
+    }
+}
+
+@media (max-width: 1620px){
+    .lake_img {
+        padding-left:0;
+    }
+    .midd_sec {
+        margin-top: 29px;
+    }
+    .map p {
+        font-size: 18px;
+        margin-top: 4px;
+    }
+    .agricc div {
+        margin-bottom: 19px;
+    }
+    .agric h4 {
+        font-size: 32px;
+    }
+    .agric p {
+        font-size: 20px;
+        line-height: 27px;
+    }
+    .agric_img {
+        width: 43px;
+    }
+    .finland {
+        left: 34%;
+    }.far_sec {
+         margin-bottom: 258px;
+     }
+    .far_sec p,
+    .far_sec h4 {
+        width: 70%;
+    }
+    .norppa header {
+        background: url(../images/56.png) 53% 100%/cover;
+    }
+
+}
+
+@media (max-width: 1560px){
+    .pulse {
+        margin-left: -196px;
+    }
+    #saim_non_img .round_bg>div:first-of-type {
+
+        margin-right: -99px;
+    }
+    .agric_img.firs_icon {
+        width: 53px;
+    }
+    .intrin_org {
+        padding-top: 104px;
+    }
+    .intrin_org p {
+        width: 628px;
+    }
+    .intrin_org h4 {
+        margin-bottom: 38px;
+    }
+    .arrow{
+        left: 30%;
+    }
+}
+@media (max-width: 1520px){
+    .bor_rad {
+        width: 112%;
+        margin-left: -6%;
+    }
+    .his-text p {
+        font-size: 31px;
+    }
+    .phone div:first-of-type {
+        width: 40%;
+    }
+    .phone div {
+        width:30%;
+    }
+    .phone {
+        padding-left: 18%;
+    }
+    .section2 .our_story {
+        margin-top:120px;
+    }
+    .finland {
+        left: 30%;
+    }
+    #spirit .far_sec {
+        margin-left: 10%;
+    }
+    .spirit_bg {
+        height: 985px;
+    }
+    #spirit .f_txt {
+        padding-top: 200px;
+    }
+    .compet {
+        padding-top: 20%;
+    }
+}
+@media (max-width: 1495px){
+    .water_bg {
+        height: 1062px;
+    }
+
+    .nor_log h1 {
+        font-size: 31px;
+        letter-spacing: 1px;
+    }
+    .header_l {
+        width: 58%;
+    }
+    .header_r {
+        width: 42%;
+    }
+    .header_r form h2 {
+        font-size: 2vh;
+        margin: 3vh auto;
+    }
+    .header_r p:empty {
+        margin: 8vh auto;
+    }
+    .header_r button {
+        font-size: 3vh;
+    }
+}
+@media (max-width: 1470px){
+    .farm_img {
+        width: 107px;
+        height: 107px;
+    }
+    .f_txt {
+        padding: 68px 0 100px;
+    }
+    .far_sec .col-sm-10 {
+        padding-top: 9px;
+        padding-left: 10px;
+    }
+    .far_sec h4 {
+        margin-bottom: 13px;
+    }
+    .far_bg {
+        height: 1108px;
+    }
+    .intrin_org {
+        padding-top: 9%;
+        padding-left: 17%;
+    }
+    .intrin_org p {
+        margin-bottom: 18px;
+        width: 600px;
+    }
+    .arrow{
+        left: 25%;
+    }
+    .vod_bottle {
+        margin-left: 0;
+    }
+    .finsk .arrow {
+        bottom: 11%;
+    }
+    .finsk .com_logo {
+        margin-top: -8px;
+    }
+
+
+
+}
+@media (max-width: 1400px){
+    .cont {
+        width: 70.5%;
+    }
+    .about p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .about h2 {
+        font-size: 35px;
+    }
+    .midd_sec {
+        width: 38%;
+    }
+    .left_sec ,.right_sec{
+        width: 31%;
+    }
+    .map h3 {
+        font-size: 25px;
+    }
+    .mar_bot1 {
+        margin-top: 17%;
+    }
+    .history>div>div {
+        height: 425px;
+    }
+    .history p {
+        font-size: 19px;
+    }
+    .map {
+        padding-top: 81px;
+    }
+    .our_story {
+        margin: 41px auto 0;
+    }
+    .section3 .our_story {
+        margin: 125px auto 0;
+    }
+    .our_story {
+        margin: 50px auto 0;
+    }
+    .page_number {
+        margin: 190px auto 280px;
+    }
+    .finland {
+        left: 25%;
+    }
+    .saim>.container3>.our_story>h1 {
+        width: 95%;
+    }
+    .finsk header{
+        margin-bottom: 13%;
+    }
+    .water_bg {
+        height: 985px;
+    }
+    #water .f_txt {
+        padding-top: 232px;
+    }
+    #water .far_sec:last-of-type {
+        margin-top: 60px;
+    }
+    #target {
+        margin-top: 36px;
+    }
+    .s_bott {
+        width: 30%;
+        right: -16%;
+    }
+    .header_r form h2 {
+        width: 69%;
+    }
+
+}
+
+
+@media (max-width: 1345px){
+
+    .our_story h4 {
+        font-size: 38px;
+    }
+    .section3 .our_story p{
+        font-size: 27px;
+    }
+    .agric p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    footer {
+        padding-top: 120px;
+    }
+    .sec1 {
+        margin: 0 auto 36px;
+    }
+    .section2 .our_story {
+        margin-top: 63px;
+    }
+    .finsk .our_story h1{
+        font-size:57px;
+    }
+    .spirit_bg {
+        height: 897px;
+    }
+    #spirit .far_sec p,
+    #spirit .far_sec h4 {
+        width: 94%;
+    }
+    #spirit .f_txt {
+        padding-top: 170px;
+    }
+    .finsk .intrin_org h4 {
+        margin-bottom: 44px;
+    }
+    .section2 .our_story.comp h1{
+        font-size: 52px;
+    }
+    .header_r form h2 {
+        font-size: 17px;
+        margin: 1vh auto;
+
+    }
+    .bg-video, .menu_saim {
+        height: 685px;
+    }
+
+}
+
+
+@media (max-width: 1300px){
+    .map h3 {
+        font-size: 22px;
+    }
+    .map p {
+        font-size: 16px;
+        width: 95%;
+        margin-top: 0;
+    }
+}
+
+
+@media (max-width: 1281px) {
+    .saima_title p {
+        width: 55%;
+    }
+
+    .saima .menu {
+        padding-top: 60px;
+    }
+
+    .saim > .container3 > .our_story > h1 {
+        width: 87%;
+    }
+    .far_bg {
+        height: 1056px;
+    }
+    .far_sec .col-sm-9 {
+        padding-top: 0;
+    }
+    .far_sec p, .far_sec h4 {
+        width:82%;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .water_bg {
+        height: 858px;
+    }
+    #water .f_txt {
+        padding-top: 196px;
+    }
+
+    .saim > .container3 > .our_story > h1{
+        font-size: 43px;
+    }
+    .intrin_org p {
+        margin-bottom: 9px;
+        font-size: 14px;
+        width: 530px;
+    }
+}
+@media (max-width: 1250px){
+    .bor_rad {
+        width: 110%;
+        margin-left: -5%;
+        height: 155px;
+        border-bottom-right-radius: 500%;
+        border-bottom-left-radius: 500%;
+    }
+    .header_bg {
+        height: 545px;
+    }
+    .lake_img div {
+        height: 148px;
+    }
+    .about p {
+        font-size: 16px;
+        line-height: 24px
+    }
+    .about h2 {
+        font-size: 29px;
+        margin-bottom: 8px;
+    }
+    .mar_bot {
+        margin-top: 12%;
+    }
+    .section3 .our_story p{
+        font-size: 23px;
+    }
+    .saima_org {
+        margin: 110px auto 100px;
+    }
+    .finsk .arrow {
+        left: 331px;
+        bottom: 38px;
+    }
+    .far_sec {
+        margin-bottom: 229px;
+    }
+    .far_bg {
+        height: 938px;
+    }
+    #spirit .f_txt {
+        padding-top: 170px;
+    }
+    #spirit .far_sec:first-of-type {
+        margin-bottom: 251px;
+    }
+    .spirit_bg {
+        height: 802px;
+    }
+    .arrow {
+        bottom: 5%;
+    }
+    video {
+        width:110%;
+    }
+    .vodka1 {
+        width: 100px;
+        margin: 82px auto 0;
+    }
+    .vodka-title1 {
+        margin: -10.5% auto 0;
+        width: 150px;
+        padding: 17px 10px;
+    }
+    .vodka2 {
+        width: 97px;
+        margin: -44px auto 0;
+    }
+    .vodka-title2 {
+        margin: -11px auto 0;
+        width: 150px;
+        padding: 9px 25px;
+    }
+    .vodka3 {
+        width: 97px;
+        margin: 81px auto 0;
+    }
+    .vodka-title3 {
+        width: 150px;
+        padding: 19px 14px;
+    }
+}
+
+@media (max-width: 1225px){
+    .about {
+        margin-top: 77px;
+    }
+    .agric h4 {
+        font-size: 29px;
+    }
+    .agric_img {
+        width: 38px;
+        height: 96px;
+    }
+    .agric p {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .saim_v {
+        padding-top:7%;
+    }
+    .history>div>div {
+        height: 360px;
+    }
+    .history p {
+        font-size: 16px;
+    }
+    .phone {
+        padding-left: 13%;
+    }
+    .phone p{
+        width: 91%;
+    }
+    .finsk #awards h1 {
+        font-size: 33px;
+    }
+}
+
+@media (max-width: 1200px){
+    .finsk #conclusion {
+        margin-bottom: 213px;
+    }
+    .finsk header {
+        margin-bottom: 5%;
+    }
+    .newOpen {
+        padding: 150px 0 350px;
+    }
+    .newOpen a {
+        font-size: 21px;
+    }
+    .txt_rt .desem h1 {
+        right: 21%;
+    }
+    .desc_text p {
+        font-size: 20px;
+    }
+    .desc_img {
+        width: 12.8%;
+    }
+    .desc_text {
+        width: 82%;
+    }
+    .ver_hid_new{
+        height: 612px;
+        top: 22%;
+    }
+
+    .you_tube {
+        height: 600px;
+    }
+
+    .contactt form input,
+    .contactt form textarea {
+        padding: 9px 19px;
+        font-size: 18px;
+    }
+    .contactt form textarea {
+        height: 199px;
+    }
+    .contactt form button {
+        font-size: 19px;
+        padding: 11px 26px;
+    }
+    .cont_map {
+        height: 645px ;
+    }
+    .contactt {
+        margin-top: 138px;
+        height: 770px;
+    }
+    .saimaa_page h4 {
+        font-size: 52px;
+        margin: 28px 0 30px;
+    }
+    .top_sec {
+        margin-top: 106px;
+    }
+    .dis_img div {
+        height: 255px;
+    }
+    .trade h3 {
+        margin-bottom: 17px;
+    }
+    .trade {
+        margin: 17px 0 84px;
+    }
+    .trade p {
+        margin-bottom: 12px;
+    }
+
+    #awards h3 {
+        width: 100%;
+    }
+    .saim .language,
+    .finsk .language{
+        width: 12%;
+    }
+    .finsk .our_story h1 {
+        font-size: 52px;
+    }
+    .intrin_org {
+        padding-left: 18%;
+        padding-top: 7%;
+    }
+    .bg_saima>div {
+        width: 300px;
+    }
+    .bg_saima {
+        height: 1052px;
+    }
+    .sect>div {
+        width: 170px;
+        height: 170px;
+    }
+    .sect1_1 {
+        width: 25px;
+    }
+    .sect p {
+        font-size: 21px;
+        width:100%;
+        text-align: left;
+        margin-left: 20px;
+    }
+    .sect1_1.sect1_2 {
+        width: 29px;
+    }
+    .finsk .intrin_org p {
+        margin-bottom: 19px;
+    }
+    .finsk .arrow {
+        left: 30.5%;
+        bottom: 5%;
+    }
+    .section2 .our_story.targ {
+        margin-top: 191px;
+    }
+    #target {
+        margin-top: 7px;
+    }
+    .nor_log {
+        width: 34%;
+    }
+    .slid {
+        margin-left: 25px;
+        width: 100%;
+    }
+    .arrow {
+        left: 19%;
+    }
+    .ver_hid ul li, .ver_hid_non ul li {
+        height: 240px;
+        margin-top:0;
+    }
+    .ver_hid {
+        height: 600px;
+        top: 25%;
+        width: 213px;
+    }
+    .ver_hid_non {
+        width: 213px;
+        height: 600px;
+        top: 24%;
+    }
+    #saim_non_img .sect p {
+        text-align: center;
+    }
+    .sect1-5 {
+        width: 45px;
+    }
+    .ver_hid_new {
+        height: 640px;
+        top: 21%;
+        width: 280px;
+    }
+    .ver_hid_new .sect p{
+        text-align: center;
+        margin-left: 0;
+        width: 81%;
+    }
+}
+
+@media (max-width: 1150px){
+    #f_bool3 .our_story h1 {
+        font-size: 45px;
+    }
+    .finsk .saimaa_page h4 {
+        margin-bottom: 37px;
+    }
+    .finsk .menu_saim li {
+        margin-bottom: 15px;
+    }
+    .bg-video ,.menu_saim{
+        height: 63.8%;
+    }
+    .saima .saima_title p {
+        font-size: 20px;
+    }
+    .saima .play {
+        margin: 30px auto 31px;
+    }
+    .saima .menu_saim ul li a {
+        font-size: 14px;
+    }
+    .saima .menu_saim li {
+        margin-bottom: 8px;
+    }
+    .saim .menu_saim ul {
+        margin: 41% 0 14% 0;
+    }
+}
+@media (max-width: 1145px){
+    .our_story h1 {
+       font-size: 5vw;
+    }
+    .our_story h4 {
+        font-size: 33px;
+    }
+    .far_sec {
+        margin-bottom: 210px;
+    }
+    .far_sec p, .far_sec h4 {
+        width: 87%;
+    }
+    .far_bg {
+        height: 876px;
+    }
+}
+
+
+@media (max-width: 1120px){
+    .water_bg {
+        height: 779px;
+    }
+    #water .f_txt {
+        padding-top: 139px;
+    }
+}
+@media (max-width: 1100px){
+    .section3 .our_story p{
+        font-size: 20px;
+    }
+    .container5 {
+        width: 67%;
+    }
+    .his-text p {
+        font-size: 26px;
+    }
+    .foot_logo {
+        width: 23.3%;
+    }
+    .section3 .our_story {
+        margin: 100px auto 0;
+    }
+    .our_product.our_product1{
+        margin-top: 0;
+    }
+    .contactt {
+        margin-top: 70px;
+    }
+    .agric {
+        margin-top: 81px;
+    }
+    .page_number ul li a {
+        font-size: 19px;
+    }
+    .page_number ul li {
+        padding: 10px 10px 7px;
+    }
+    .finland {
+        left: 19%;
+        width: 109px;
+        height: 109px;
+    }
+    .finland h3 {
+        font-size: 15px;
+        padding: 38px 13px;
+    }
+    .newOpen {
+        padding: 150px 0 220px;
+    }
+    .cont_map {
+        height: 585px;
+    }
+    .contactt form button{
+        margin-top: 20px;
+    }
+    .con_us {
+        padding: 47px 20px 38px 105px;
+    }
+    .txt1, .txt2, .txt3 {
+        font-size: 19px;
+    }
+    .our_story.comp h1{
+        font-size: 38px;
+    }
+    .f_txt {
+        padding: 13px 0 100px;
+    }
+    .far_sec {
+        margin-bottom: 163px;
+    }
+    .far_bg {
+        height: 739px;
+    }
+    #spirit .far_sec p,
+    #spirit .far_sec h4 {
+        width: 100%;
+    }
+    .spirit_bg {
+        height: 718px;
+    }
+    #spirit .f_txt {
+        padding-top: 134px;
+    }
+    .intrin_org p {
+        margin-bottom: 13px;
+        font-size: 15px;
+    }
+    .finsk .intrin_org h1 {
+        padding-top: 19%;
+    }
+    .bg-video ,.menu_saim{
+        height: 550px;
+    }
+    .finsk .saimaa_page h4 {
+        margin-bottom: 0;
+    }
+    .finsk video{
+        margin-top: 0;
+    }
+    .section2 .our_story.comp h1 {
+        font-size: 47px;
+    }
+    .intrin_org p {
+        margin-bottom: 8px;
+        font-size: 14px;
+    }
+    .s_bott {
+        width: 31%;
+        right: -16%;
+    }
+    .header_r p, .header_r p span {
+        font-size: 21px;
+    }
+    .saima_title a {
+        width: 147px;
+        font-size: 17px;
+        padding: 8px 4px;
+    }
+    .saima .saimaa_page h4 {
+        font-size: 45px;
+        letter-spacing:2px;
+    }
+}
+
+
+@media (max-width: 1030px){
+    .finsk #f_bool3 .our_story h1 {
+        font-size: 41px;
+    }
+    #awards h1{
+        font-size: 30px;
+    }
+    #awards p.award_p {
+        font-size: 24px;
+        margin-top: 44px;
+    }
+    .awards_img img {
+        margin: 20px 32px;
+    }
+    #awards .sec_awar .awards_img img {
+        margin: 18px 19px;
+    }
+    .awards_img {
+        width: 175px;
+        height: 175px;
+        margin: 30px auto;
+    }
+    #awards .sec_awar h3 {
+        margin-bottom: 136px;
+    }
+}
+
+@media (max-width: 996px){
+    .menu ul li {
+        margin:15px;
+    }
+    .menu ul li a {
+        font-size: 16px;
+    }
+    .menu_saim ul li a {
+        font-size: 16px;
+    }
+    .menu_saim {
+        width: 35%;
+        padding-left: 29px;
+    }
+    .round {
+        right: 8%;
+        top:20%;
+    }
+    .menu_saim ul {
+        margin: 40% 0 25%;
+    }
+    .lake_img div {
+        height: 130px;
+    }
+    .finsk .arrow {
+        bottom: 0;
+    }
+    .history>div>div {
+        height: 320px;
+    }
+    .phone {
+        padding-left: 0;
+    }
+    .map_show{
+        display: none;
+    }
+    .map_hid{
+        display: block;
+    }
+    .map h3 img{
+        display: block;
+    }
+    .midd_sec {
+        width: 26%;
+    }
+    .left_sec,
+    .right_sec {
+        width: 32%;
+    }
+    .our_product.our_product1{
+        padding-bottom: 0;
+    }
+    .finsk #awards h1 {
+        font-size: 27px;
+    }
+    .our_product p {
+        font-size: 20px;
+    }
+    #awards .sec_awar h3 {
+        margin-bottom: 111px;
+    }
+    .sec_row {
+        margin-top: 45%;
+    }
+    .our_product {
+        margin-top: 117px;
+        padding-bottom:9%;
+    }
+    .box_shad {
+        padding: 40px 0 39px;
+    }
+    .top_sec {
+        margin-top: 0;
+    }
+    .nw_img {
+        height: 318px;
+    }
+    .nw_desc {
+        padding-top:  0;
+    }
+    .page_number {
+        margin: 135px auto 175px;
+    }
+    .limited .box_shad {
+        padding-bottom: 20px;
+    }
+    .txt_rt .desem h1 {
+        right: 24%;
+    }
+    .desc_text {
+        padding-left: 44px;
+    }
+    .desc_img {
+        width: 10.8%;
+    }
+    .desc_text p {
+        font-size: 18px;
+    }
+    .desc {
+        padding-top: 66px;
+        width: 100%;
+    }
+    .desc_text p {
+        line-height: 25px;
+    }
+    .info {
+        font-size: 17px;
+        padding: 7px 22px;
+        margin-top: 79px;
+    }
+    .contactt form input {
+        float: none;
+        width: 96%;
+        margin-bottom: 14px;
+    }
+    .con_us {
+        padding: 35px 20px 65px 56px;
+    }
+    .contactt h1 {
+        margin-bottom: 29px;
+    }
+    .contactt form textarea {
+        height: 150px;
+    }
+    .cont {
+        width: 86.5%;
+    }
+    .contactt form   button {
+        margin-top: 23px;
+    }
+    .prod_inf{
+        height: 400px;
+    }
+    .prod_info {
+        width: 90%;
+        margin: 100px auto 0;
+    }
+    .info1 li ,.info2 li{
+        line-height: 46px;
+        font-size: 16px;
+    }
+    .saima_title p {
+        width: 68%;
+    }
+    .saimaa_page h4 {
+        font-size: 40px;
+        margin: 22px 0 14px;
+    }
+    .hamburg {
+        padding-top: 66px;
+    }
+    .saim > .container3 > .our_story > h1 {
+        width: 100%;
+        font-size: 42px;
+    }
+    .farm_img {
+        width: 86px;
+        height: 86px;
+    }
+    .f_txt {
+        padding: 20px 0 100px;
+    }
+    .far_bg {
+        height: 806px;
+    }
+    .target {
+        margin-top: 66px;
+    }
+    .target h3{
+        font-size:17px;
+    }
+    .target p{
+        width: 100%;
+        margin-top: 140px;
+    }
+    .target .txt_rt {
+        padding-right: 0;
+    }
+    .target_img1, .target_img2 {
+        margin: 0 auto 37px;
+    }
+    .txt_l{
+        padding-left: 0;
+    }
+    .target .txt_l p {
+        margin-top: 84px;
+    }
+    .target .txt_c p {
+        font-size: 14px;
+        width: 90%;
+        line-height: 24px;
+    }
+
+    .trade h3 {
+        font-size: 28px;
+    }
+    .trade p {
+        font-size: 15px;
+    }
+    #awards h1 {
+        font-size: 3.2vw;
+    }
+    #awards{
+        margin-bottom: 200px;
+    }
+    #awards h3 {
+        font-size: 15px;
+    }
+    .saim .language,
+    .finsk .language{
+        padding-top: 68px;
+        width: 14%;
+    }
+    .finsk header {
+        margin-bottom:0;
+    }
+    .finsk #competitive{
+        margin-top: 36px;
+    }
+    .far_sec h4 {
+        margin-bottom: 0;
+    }
+    .far_sec p {
+        width: 82%;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .spirit_bg {
+        height: 634px;
+    }
+    #spirit .f_txt {
+        padding-top: 78px;
+    }
+    .water_bg {
+        height: 672px;
+    }
+    #water .f_txt {
+        padding-top: 79px;
+    }
+    #target .txt_rt{
+        padding-right: 0;
+    }
+    #competitive {
+        margin-top: 53px;
+    }
+    .slid {
+        margin-left: 41px;
+    }
+    .intrin_org p {
+        margin-bottom: 11px;
+        font-size: 14px;
+    }
+    .arrow {
+        left: 22%;
+    }
+    #target .txt_rt {
+        padding-right: 0;
+    }
+    #target .txt_l {
+        padding-left: 0;
+    }
+    .nor_log h1{
+        font-size: 32px;
+    }
+
+    .language {
+        width: 16%;
+    }
+    .intrin_org h4 {
+        margin-bottom: 19px;
+    }
+    .intrin_org {
+        padding-top: 0;
+    }
+    .finsk #conclusion {
+        margin-bottom: 134px;
+    }
+}
+
+
+@media (min-width: 767px) and (max-width: 996px){
+
+    .desem h1 {
+        font-size: 30px;
+    }
+    .desem span {
+        font-size: 77px;
+    }
+    .urge h2 {
+        font-size: 25px;
+    }
+    .urge p {
+        font-size: 18px;
+        width: 100%;
+        letter-spacing: 0;
+        line-height: 24px;
+    }
+    .newOp {
+        height: 316px;
+    }
+    .intrin_org.org_hot h4{
+        font-size:20px;
+        padding-top:13%;
+    }
+}
+@media (max-width: 992px){
+    .gold_f{
+        padding-top: 26%;
+    }
+    .finsk #target .txt_l p {
+        margin-top: 35px;
+    }
+}
+@media (max-width: 976px){
+    .bg-video ,.menu_saim{
+        height: 523px;
+    }
+    .concl {
+        font-size: 22px;
+    }
+    #f_bool4 .section2 .our_story.targ {
+        margin-top: 132px;
+   }
+    #target .txt_c p {
+        margin-top: 70px;
+        line-height: 22px;
+    }
+    .section2 .our_story.comp h1 {
+        font-size: 39px;
+    }
+    .header_r button {
+        font-size: 32px;
+        width: 28%;
+        margin: 42px 0 29px;
+    }
+    .header_r input[type="text"], .header_r button {
+        font-size: 20px;
+        padding: 9px 0;
+        margin-right: 12px;
+    }
+
+    .header_r p, .header_r p span {
+        font-size: 18px;
+    }
+}
+@media (max-width: 954px){
+    .agricc div {
+        margin-bottom: 10px;
+    }
+    .agric_img {
+        width: 32px;
+        height: 97px;
+    }
+    .agric h4 {
+        font-size: 25px;
+    }
+    .agricc {
+        padding-left:0;
+    }
+    .far_bg {
+        height: 730px;
+    }
+    .far_sec h4 {
+        line-height: 19px;
+        margin-bottom: 5px;
+    }
+    .bg_saima>div {
+        width: 250px;
+    }
+    .bg_saima {
+        height:906px;
+    }
+    .sect>div {
+        width: 120px;
+        height: 120px;
+    }
+    .sect1_1 {
+        width: 17px;
+    }
+    .ver_hid_non {
+        height: 488px;
+        top: 26%;
+    }
+    .sect p {
+        font-size: 17px;
+    }
+    #saim_non_img .sect p{
+        width: 72%;
+    }
+    .sect1_1.sect1_2 {
+        width: 20px;
+    }
+    .sect2 {
+        top: 386px;
+    }
+    .sect3 {
+        top: 604px;
+    }
+    .pulse div {
+        height: 400px;
+        width: 400px;
+    }
+    .pulse {
+        padding-top: 915px;
+    }
+    .finsk .intrin_org p {
+        width: 85%;
+    }
+    .finsk #f_bool3 .our_story h1 {
+        font-size: 35px;
+    }
+    .agric_img.firs_icon {
+        width: 40px;
+    }
+    .ver_hid ul li, .ver_hid_non ul li {
+        height: 180px;
+    }
+    .ver_hid {
+        height: 488px;
+        top: 27%;
+    }
+    .sect1-5 {
+        width: 30px;
+    }
+    .ver_hid_new .sect p {
+        width: 66%;
+}
+    .ver_hid_new{
+        top: 25%;
+        height: 525px;
+    }
+}
+
+@media (max-width: 930px){
+    .section3 .our_story p{
+        font-size:18px;
+    }
+    .history {
+        margin-top: 70px;
+        padding-bottom: 102px;
+    }
+    .intrin_org p{
+        width: 85%;
+    }
+    .finsk .saimaa_page h4 {
+        margin-bottom: 19px;
+    }
+    .play {
+        margin: 19px auto 42px;
+    }
+    .bg-video ,.menu_saim{
+        height: 465px;
+    }
+    .nor_log h1{
+        font-size: 32px;
+    }
+    .saima .saima_title {
+        margin-top: -43px;
+    }
+    .saima .saima_title p {
+        width: 90%;
+    }
+    .saima .play {
+        margin: 11px auto;
+    }
+    .saim .menu_saim ul {
+        margin: 28% 0 11% 0;
+    }
+    .saima .menu_saim li {
+        margin-bottom: 0;
+    }
+}
+
+@media (max-width: 900px){
+
+    .language{
+        width: 17%;
+    }
+    .header_bg {
+        height: 425px;
+    }
+    .his-text p {
+        font-size: 22px;
+    }
+    .txt1 {
+        right: 15%;
+    }
+    .txt2 {
+        right: 7%;
+    }
+    .txt3 {
+        right: 11%;
+    }
+    .txt1, .txt2, .txt3 {
+        font-size: 16px;
+    }
+    .saim .language,
+    .finsk .language{
+        width: 88px;
+    }
+    .far_sec p {
+        width: 97%;
+    }
+    .far_sec .col-sm-9 {
+        margin-left: -20px;
+    }
+    .water_bg {
+        height: 580px;
+    }
+    .nor_log h1{
+        font-size: 28px;
+    }
+    .you_tube {
+        width: 74.5%;
+        height: 480px;
+    }
+    .close_video {
+        width: 74.5%;
+    }
+    .vodka1 {
+        width: 70px;
+    }
+    .vodka-title1 {
+        margin: 1.5% auto 0;
+        width: 100px;
+        padding: 11px 10px;
+    }
+    .vodka2 {
+        width: 78px;
+    }
+    .vodka-title2 {
+        margin: -9px auto 0;
+        width: 100px;
+        padding: 10px 19px;
+    }
+    .vodka3 {
+        width: 67px;
+    }
+    .vodka-title3 {
+        width: 100px;
+        margin: 6px auto 0;
+        padding: 16px 5px;
+    }
+    .bor_rad {
+        height: 93px;
+
+    }
+}
+
+
+@media (max-width: 890px){
+    .arrow {
+        left: 22%;
+        bottom: 0;
+    }
+    .finsk .intrin_org h1 {
+        padding-top: 9%;
+    }
+    .intrin_org p {
+        margin-bottom: 6px;
+        font-size: 13px;
+    }
+    .header_l {
+        width: 37%;
+    }
+    .header_r{
+        width: 63%;
+    }
+    .s_bott {
+        width: 36%;
+        right: -19%;
+    }
+    .header_r h1 {
+        font-size: 8vh;
+    }
+}
+@media (max-width: 857px){
+    .bor_rad {
+        width: 122%;
+        margin-left: -11%;
+        height: 136px;
+        border-bottom-right-radius: 600%;
+        border-bottom-left-radius: 600%;
+    }
+    .our_story p {
+        font-size: 21px;
+        line-height: 19px;
+    }
+    .our_story h4 {
+        font-size: 28px;
+    }
+    .section3 .our_story p{
+        width: 95%;
+        margin:0 auto;
+        line-height: 25px;
+    }
+    .history>div>div {
+        height: 290px;
+    }
+    .his3 p,.his4 p {
+        padding: 11% 9px 0 25px;
+    }
+    .phone p {
+        font-size: 15px;
+    }
+    .phone h5 {
+        font-size: 18px;
+    }
+    .footer_menu ul li a {
+        font-size: 20px;
+    }
+    .footer_menu ul li span {
+        margin: 0 18px;
+    }
+    .footer_menu {
+        margin-top: 55px;
+        padding: 12px 0;
+    }
+    .soc {
+        padding: 36px 0 60px 6px;
+    }
+    .midd_sec {
+        width: 29%;
+    }
+    .about button {
+        font-size: 18px;
+    }
+    .farm_img {
+        width: 70px;
+        height: 70px;
+        float: left;
+    }
+    .far_sec .col-sm-9 {
+        margin-left: -29px;
+    }
+    .far_sec p, .far_sec h4 {
+        width: 100%;
+    }
+    .far_bg {
+        height: 692px;
+    }
+    #spirit .far_sec .col-sm-9 {
+        margin-left: -9px;
+    }
+    .spirit_bg {
+        height: 592px;
+    }
+    .arrow{
+        bottom: 0;
+    }
+    .header_r p, .header_r p span {
+        font-size: 20px;
+    }
+    .menu_saim{
+        width: 39%;
+    }
+}
+@media (max-width: 830px){
+    .bg-video ,.menu_saim{
+        height:435px ;
+    }
+
+    .finsk .intrin_org p {
+        margin-bottom: 8px;
+    }
+    .nor_cont p {
+        font-size: 27px;
+        word-spacing: 0;
+        line-height: 25px;
+    }
+    .nor_log {
+        margin: 35px auto 71px;
+    }
+    .nor_log h1 {
+        font-size: 24px;
+        word-spacing: 0;
+    }
+    .nor_log img {
+        margin-bottom: 0;
+    }
+}
+@media (max-width: 815px){
+    .midd_sec {
+        width: 32%;
+    }
+    .agric h4 {
+        font-size: 22px;
+    }
+    .agric p {
+        font-size: 15px;
+        line-height: 19px;
+    }
+    .agricc div {
+        margin-bottom: 0;
+    }
+    .container5 {
+        width: 85%;
+    }
+    .saim_v {
+        padding-top: 3%;
+    }
+    .med_story h1 {
+        font-size: 40px;
+    }
+
+    .our_story.comp h1{
+        font-size:4.6vw;
+    }
+    .far_sec .col-sm-9 {
+        margin-left: -19px;
+    }
+    .f_txt {
+        padding: 0 0 40px;
+    }
+    .spirit_bg {
+        height: 568px;
+    }
+    .section2 .our_story.targ {
+        margin-top: 137px;
+    }
+    .concl {
+        font-size: 20px;
+    }
+    #f_bool4 .section2 .our_story.targ {
+        margin-top: 115px;
+    }
+    .section2 .our_story.comp h1 {
+        font-size: 34px;
+    }
+    .finsk .arrow {
+        left: 32.5%;
+        bottom: 0;
+    }
+    .intrin_org.org_hot h4 {
+        font-size: 18px;
+        padding-top: 16%;
+        line-height: 28px;
+
+    }
+}
+
+@media (max-width: 794px) {
+{
+    width: 100%;
+    margin-left: 9%;
+    margin-top: 164px;
+}
+    #conclusion .txt_c img{
+        width: 76%;
+        margin-top: 0;
+    }
+    .target_img3, .target_img4{
+        width: 110px;
+        height: 110px;
+        margin-bottom: 15px;
+    }
+    #target .txt_l p {
+        margin-top: 38px;
+    }
+    #awards h1 {
+        font-size: 27px;
+    }
+    #awards p {
+        font-size: 13px;
+    }
+    .concl {
+        width: 88%;
+    }
+    .nor_log h1{
+        letter-spacing: 0;
+    }
+    .finsk #target .txt_rt, .finsk #target .txt_l {
+        padding-top: 6%;
+    }
+    .gold_f {
+        padding-top: 12%;
+    }
+    .finsk #f_bool3 .our_story h1 {
+        font-size: 29px;
+    }
+    .nor_log {
+        width: 40%;
+    }
+
+    .header_r .copy {
+        font-size: 12px;
+    }
+}
+@media (max-width: 785px) {
+    .saima_title p {
+        width: 95%;
+    }
+    .saima_title p {
+        font-size: 21px;
+    }
+    .intrin_org h4 {
+        margin-bottom: 13px;
+    }
+    .bg-video ,.menu_saim{
+        height: 408px;
+    }
+    .finsk .prod_logo {
+        margin: -13px auto 13px;
+    }
+    .finsk .intrin_org h4 {
+        font-size: 19px;
+    }
+    .saima .prod_logo {
+        width: 16.4%;
+    }
+
+    .saima .saima_title {
+        margin-top: -13px;
+    }
+    .saima .saimaa_page h4 {
+        font-size: 33px;
+        letter-spacing:0;
+    }
+    .saima .saima_title p {
+        font-size: 17px;
+        width: 95%;
+    }
+}
+@media (max-width: 767px){
+    .menu ul {
+        display: none;
+    }
+    .bar{
+        display: block;
+    }
+    #conclusion .txt_rt p{
+        float: right;
+        text-align: right;
+    }
+    .logo>div {
+        width: 76%;
+        margin: 0 auto;
+    }
+    .round p {
+        height: 27px;
+    }
+    .language {
+        width:100%;
+    }
+    .menu {
+        padding-top: 46px;
+    }
+    .hhh p {
+        padding: 4px 10px;
+        font-size: 14px;
+    }
+    .hhh p:empty {
+        top: 5px;
+    }
+    .language span {
+        margin-top: 25px;
+    }
+    .about {
+        margin-top: 39px;
+    }
+    .lake_img,.about_text {
+        width: 100%;
+        clear: both;
+    }
+    .lake_img div {
+        width: 28.5%;
+    }
+    .about button{
+        float: right;
+        margin-right: 8%;
+    }
+    .more {
+        margin-top: 26px;
+        margin-bottom: 85px;
+    }
+    .his-text {
+        padding-bottom: 62px;
+    }
+    .agric {
+        margin-bottom: 14px;
+    }
+    .sec1 {
+        width: 85%;
+    }
+    .midd_sec {
+        width: 36%;
+    }
+
+    .urge p{
+        margin: 0 auto;
+    }
+    .desem,
+    .urge h2 {
+        padding-left: 3%;
+    }
+    .newOpen {
+        padding: 65px 0 85px;
+    }
+    .newOp {
+        margin: 39px auto 0;
+    }
+    .filter button {
+        font-size: 21px;
+        width: 136px;
+        height: 40px;
+    }
+    .nw_img img{
+        width: 100%;
+    }
+    .news_cont a {
+        float: right;
+        margin-top: 28px;
+        font-size: 19px;
+    }
+    .news_cont p {
+        line-height: 28px;
+    }
+    .our_product p {
+        font-size: 17px;
+    }
+    .txt_rt {
+        text-align: left;
+    }
+    .txt_rt p,
+    .fl_rt {
+        float:none;
+    }
+    .txt_rt .desem h1 {
+        position: relative;
+        right: 0;
+    }
+    .con_us {
+        width: 89%;
+        float: none;
+        margin: 0 auto;
+    }
+    .cont_map {
+        height: 419px;
+        width: 89%;
+        float: none;
+        margin: 0 auto;
+    }
+    .contactt {
+        margin-top: 42px;
+        height: 1163px;
+    }
+    .nw_desc {
+        margin-left: 0;
+    }
+    .saimaa_page h4 {
+        font-size: 4vw;
+        margin: 22px 0 14px;
+    }
+    .saima_title a {
+        font-size: 18px;
+        width: 165px;
+        padding: 11px 18px 9px 18px;
+    }
+    .play {
+        width: 7%;
+    }
+    .saima_title {
+        padding-bottom: 50px;
+    }
+    .hamburg {
+        padding-top: 80px;
+    }
+    .saim>.container3>.our_story>h1 {
+        width: 100%;
+    }
+    .far_bg,
+    .spirit_bg ,
+    .water_bg {
+        height: 580px;
+        width: 72%;
+        margin-bottom: 45px;
+    }
+    .water_bg {
+        background-position: 100% 70%;
+    }
+    .clearfix1{
+        clear: both;
+    }
+    #spirit .far_sec .col-sm-3 {
+        float: left;
+    }
+    #spirit .far_sec p,
+    #spirit .far_sec h4{
+        text-align: left;
+        padding-left: 19%;
+    }
+    #spirit .far_sec:first-of-type {
+        margin-bottom: 24px;
+    }
+    .farm_img {
+        float: right;
+        margin-right: 7%;
+        width:  85px;
+        height: 85px;
+    }
+
+    .far_sec p, .far_sec h4 {
+        text-align: right;
+        width: 85%;
+        padding-right: 7%;
+        padding-left: 25px;
+    }
+
+    .far_sec{
+        margin-bottom: 18px;
+    }
+    .dis_img div{
+        height: 190px;
+    }
+    .trade h3 {
+        font-size: 21px;
+        margin-bottom: 5px;
+    }
+    .trade p {
+        font-size: 13px;
+        margin-bottom: 8px;
+    }
+    .trade {
+        margin: 17px 0 69px;
+    }
+    #awards {
+        padding: 79px 0 100px;
+        margin-bottom: 100px;
+    }
+    #awards>div>div {
+        margin-top: 78px;
+    }
+    #awards .sec_awar h3 {
+        margin-bottom: 51px;
+    }
+    .saim .language,
+    .finsk .language{
+        padding-top: 57px;
+    }
+
+    #water .far_sec:last-of-type {
+        margin-top: 0;
+    }
+
+    #water .f_txt {
+        padding-top: 0;
+    }
+    #target .txt_c p{
+        width: 100%;
+        margin-top: 49px;
+        line-height: 21px;
+    }
+    #target h3{
+        font-size: 18px;
+    }
+    .target_img1,
+    .target_img2,
+    .target_img3,
+    .target_img4,
+    .target_img5,
+    .target_img6 {
+        width: 109px;
+        height: 109px;
+    }
+    #target p {
+        margin-top: 38px;
+    }
+    .section2 .our_story.targ {
+        margin-top:78px;
+    }
+    .firs_logo {
+        width: 180px;
+    }
+    .about_hid {
+        height: 89px;
+    }
+    .section2 .our_story {
+        margin-top: 23px;
+    }
+    #competitive {
+        padding: 53px 0 64px;
+    }
+    .intrin_org p {
+        margin-bottom: 0;
+        font-size: 12px;
+    }
+}
+
+
+
+
+@media(min-width: 767px){
+    .cont_content{
+        display: flex;
+        display: -webkit-flex;
+    }
+    .cont_map{
+        -webkit-flex: 1;
+        -ms-flex:1;
+        flex: 1;
+        float: left;
+    }
+    .con_us{
+        -webkit-flex:1.48;
+        -ms-flex: 1.48;
+        flex: 1.48;
+    }
+}
+
+@media (max-width: 750px){
+    .compet {
+        width: 26.5%;
+    }
+    .intrin_org {
+        padding-top: 2%;
+    }
+    .saim > .container3 > .our_story > h1{
+        font-size: 38px;
+    }
+    .finsk #awards h1 {
+        font-size: 23px;
+    }
+    #awards p.award_p {
+        font-size: 19px;
+        margin-top: 44px;
+    }
+}
+
+@media (max-width: 730px){
+
+    .our_story p {
+        font-size: 19px;
+        letter-spacing: 0;
+    }
+    .our_story h4 {
+        font-size: 26px;
+    }
+    .his-text p {
+        font-size: 18px;
+    }
+
+    .history>div>div {
+        height: 250px;
+    }
+    .history p {
+        font-size: 14px;
+    }
+    .phone div,
+    .phone div:first-of-type {
+        width: 100%;
+    }
+    .foot_logo {
+        width: 27.3%;
+    }
+    .section2 .our_story {
+        margin-top: 66px;
+    }
+    .midd_sec {
+        width: 25%;
+        clear: both;
+        margin: 0 auto;
+        position: absolute;
+        left: 0;
+        right: 0;
+    }
+    .left_sec, .right_sec {
+        width: 50%;
+        top: 119%;
+        position: relative;
+        margin-top: 47%;
+    }
+    .mar_bot {
+        margin-top: 27%;
+    }
+    .map {
+        padding-top: 40px;
+        position: relative;
+    }
+    .agric_img {
+        width: 22px;
+        height: 82px;
+    }
+    .desc_img{
+        padding-top: 40px;
+    }
+    .saima_org {
+        margin: 62px auto 38px;
+    }
+    .target_img1, .target_img2 {
+        width:90px;
+        height: 90px;
+    }
+    .target h3 {
+        font-size: 15px;
+        margin-bottom: -10px;
+    }
+    .target h6 {
+        font-size: 12px;
+    }
+    .finsk .intrin_org h4 {
+        font-size: 21px;
+        margin-bottom: 25px;
+    }
+    .finsk .arrow {
+        bottom: 10px;
+    }
+    video {
+        width: 123%;
+    }
+    .agric_img.firs_icon {
+        width: 32px;
+    }
+    .header_r p, .header_r p span {
+        font-size: 18px;
+    }
+    .hamburg {
+        padding-top: 35px;
+    }
+    .saim .language, .finsk .language {
+        padding-top: 13px;
+    }
+    .menu_saim a {
+        font-size: 17px;
+    }
+}
+@media (max-width: 710px) {
+    .compet {
+        width: 21.5%;
+    }
+    .bg_saima>div {
+        width: 200px;
+    }
+    .bg_saima {
+        height:758px;
+    }
+    #saim_non_img .bg_saima>div {
+        margin-left: -11px;
+    }
+    .sect>div {
+        width: 95px;
+        height: 95px;
+        border-width: 4px;
+    }
+    .sect1_1.sect1_2 {
+        width: 13px;
+    }
+    .sect1_1 {
+        width: 13px;
+    }
+    #saim_non_img .round_bg>div:first-of-type {
+        margin-right: -61px;
+    }
+
+    .sect p {
+        font-size: 15px;
+        padding-top: 0;
+        margin: 0;
+    }
+    .sect {
+        margin-bottom: 0;
+    }
+    .pulse div {
+        height: 350px;
+        width: 350px;
+    }
+    .pulse {
+        padding-top: 759px;
+    }
+    .nor_cont p {
+        font-size: 4vw;
+        line-height: 21px;
+    }
+    .norpppa_logo div {
+        width: 146px;
+        padding: 46px 0 0 33px;
+    }
+    .nor_log h1 {
+        font-size: 3.6vw;
+    }
+    .ver_hid ul li,
+    .ver_hid_non ul li {
+        height: 136px;
+        padding-top:0;
+        margin:20px;
+    }
+    .ver_hid,.ver_hid_non {
+        height: 311px;
+        top: 31%;
+    }
+    .sect1-5 {
+        width:23px;
+    }
+    .ver_hid_new{
+        top: 24%;
+    }
+    .ver_hid_new {
+        top: 30%;
+        height: 313px;
+    }
+
+    .ver_hid_new .sect p {
+        width: 72%;
+        text-align: left;
+    }
+}
+@media (max-width: 691px) {
+    .saim > .container3 > .our_story > h1 {
+        width: 100%;
+    }
+    video{
+        margin-top: -4%;
+    }
+
+
+}
+@media (max-width: 685px){
+    .our_product p {
+        font-size: 16px;
+        width: 95%;
+    }
+    .desc_img{
+        padding-top: 95px;
+    }
+    #conclusion .txt_c img {
+        width: 76%;
+        margin-top: 51px;
+    }
+}
+@media (max-width: 680px){
+    .our_story h4 {
+        font-size: 23px;
+    }
+    .container3 {
+        width: 81.5%;
+    }
+    .saima .menu {
+        padding-top: 70px;
+    }
+    .trade {
+        margin: 1px 0 43px;
+    }
+
+    .saima_title a {
+        width: 183px;
+        font-size: 20px;
+        padding: 9px 10px;
+    }
+
+}
+
+
+
+@media (max-width: 650px){
+    .saim_v{
+        width: 32%;
+        left: 0;
+        right: 0;
+        padding-top: 0;
+        margin: 0 auto;
+        position: absolute;
+    }
+    .agricc{
+        position: relative;
+        margin-top: 52%;
+        padding-left: 4%;
+        width:100%;
+    }
+    .you_tube {
+        height: 358px;
+    }
+    footer {
+        padding-top: 80px;
+    }
+    .desc_text p {
+        font-size: 16px;
+    }
+    .desc_text {
+        padding-left: 42px;
+    }
+    .our_product {
+        margin-top: 60px;
+    }
+    .txt1, .txt2, .txt3 {
+        font-size: 14px;
+    }
+
+    .far_bg,
+    .spirit_bg ,
+    .water_bg {
+        height: 455px;
+        width: 68%;
+    }
+    .far_sec p, .far_sec h4{
+        font-size: 14px;
+        line-height: 19px;
+        padding-right: 12%;
+    }
+    #spirit .far_sec p,
+    #spirit .far_sec h4{
+        padding-left: 22%;
+    }
+    #saim_non_img .round_bg>div:first-of-type {
+        margin-right: -45px;
+    }
+    .finsk .intrin_org h1 {
+        font-size: 38px;
+        padding-top: 4%;
+    }
+    .finsk .arrow {
+        bottom: 0;
+    }
+    #competitive {
+        padding: 49px 0 53px;
+    }
+    .finsk .intrin_org p {
+        margin-bottom: 8px;
+        font-size: 12px;
+    }
+    .compet,.finsk .compet{
+        display: none;
+    }
+    .slid {
+        margin-left: 4%;
+    }
+    .intrin_org {
+        padding-top: 9%;
+    }
+    .finsk .intrin_org h1 {
+        padding-top: 18%;
+    }
+    .header_r p, .header_r p span {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 620px){
+    .slid {
+        margin-left: 14px;
+    }
+    .arrow {
+        left: 18%;
+    }
+    .intrin_org p {
+        font-size: 12px;
+        margin-bottom: 3px;
+    }
+    .compet {
+        width: 20.5%;
+        padding-top: 24%;
+    }
+    .header_bg {
+        height: 289px;
+    }
+    .menu_hid {
+        padding-bottom: 74px;
+        padding-top:41px;
+	top:161px;
+    }
+
+    .saim .language,
+    .finsk .language {
+        padding-top: 20px;
+    }
+    .hamburg {
+        padding-top: 44px;
+    }
+    .bg-video , .menu_saim{
+        height: 360px;
+    }
+    .menu_saim ul li a {
+        font-size: 12px;
+    }
+    .finsk .menu_saim li {
+        margin-bottom: 5px;
+    }
+    .saima .saima_title {
+        margin-top: -41px;
+    }
+    .saima .saima_title p {
+        font-size: 13px;
+    }
+    .saima_title a {
+        width: 127px;
+        font-size: 14px;
+        padding: 6px 10px;
+    }
+    .saima .menu_saim ul li a {
+        font-size: 11px;
+    }
+    .menu_saim a {
+        font-size: 13px;
+    }
+    .header_r h1 {
+        font-size: 6vh;
+    }
+    .bor_rad {
+        height: 80px;
+    }
+    .vodka1 {
+        width: 50px;
+        margin: 46px auto 0;
+    }
+    .vodka-title1 {
+        width: 80px;
+        padding: 4px 10px;
+    }
+    .vodka2 {
+        width: 56px;
+    }
+    .vodka-title2 {
+        width: 80px;
+        padding: 5px 11px;
+    }
+    .vodka3 {
+        width: 47px;
+        margin: 46px auto 0;
+    }
+    .vodka-title3 {
+        width: 80px;
+        position: relative;
+        padding: 8px 5px;
+    }
+    .menu_hid ul li {
+        margin-bottom: 25px;
+    }
+}
+@media (max-width: 600px){
+    .logo>div {
+        width: 90px;
+    }
+    .menu_hid ul li {
+        margin-bottom: 22px;
+    }
+    .bor_rad {
+        width: 132%;
+        margin-left: -16%;
+        border-bottom-right-radius: 700%;
+        border-bottom-left-radius: 700%;
+    }
+    .about button {
+        font-size: 16px;
+        padding: 6px 3.5% 4px;
+    }
+    .our_story p {
+        font-size: 17px;
+        width: 75%;
+        margin:0 auto;
+        line-height: 25px;
+    }
+    .his-text p {
+        width: 74%;
+        line-height: 25px;
+        margin: 0 auto;
+    }
+    .copyright p {
+        clear: both;
+        font-size: 9px;
+    }
+    .vod_img {
+        width: 13%;
+    }
+    .finland {
+        left: 19%;
+        width: 80px;
+        height: 80px;
+        border-width: 10px;
+    }
+    .finland h3 {
+        font-size: 12px;
+        padding: 29px 7px;
+    }
+    .info1, .info2 {
+        padding-left: 6%;
+    }
+    .target .txt_c p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .f_txt {
+        padding: 0 0 0;
+    }
+    .finsk #target .txt_rt,
+    .finsk #target .txt_l {
+        padding-top: 3%;
+    }
+    .txt_c img {
+        margin-top: 29px;
+    }
+
+    .sect {
+        left: 14px;
+    }
+    .bg_saima>div {
+        margin-right: -10px;
+    }
+    .first_org{
+        width: 40%;
+    }
+    .round_bg{
+        width: 60%;
+    }
+}
+
+
+@media (max-width: 590px){
+
+    .finsk .our_story h1 {
+        font-size: 7vw;
+    }
+    .txt_c img {
+        margin-top: 68px;
+    }
+    .saima_title a {
+        width: 124px;
+        font-size: 14px;
+        padding: 6px 10px;
+    }
+    .finsk .saimaa_page h4 {
+        margin-bottom: -2px;
+    }
+    .bg-video ,.menu_saim{
+        height: 312px;
+    }
+    #conclusion .txt_c img {
+        width: 91%;
+        margin-top: 69px;
+        margin-left: 0;
+    }
+    .finsk #conclusion .row {
+        margin-top: 39px;
+    }
+    .saima .saimaa_page h4 {
+        font-size: 23px;
+        margin: 2px 0 3px;
+    }
+    .saima .menu_saim li {
+        margin-bottom: -5px;
+    }
+}
+@media (max-width: 570px){
+    .container6{
+        width: 80%;
+    }
+    .footer_menu ul li a {
+        font-size: 16px;
+    }
+    .sec1 {
+        width: 100%;
+    }
+    .newOpen {
+        padding: 65px 0 139px;
+    }
+    .our_product p {
+        font-size: 13px;
+    }
+    .page_number ul li a {
+        font-size: 15px;
+    }
+    .page_number ul li {
+        padding: 2px 6px 3px;
+        margin-right: 3px;
+    }
+    #spirit .far_sec p,
+    #spirit .far_sec h4{
+        padding-left: 24%;
+        width: 100%;
+        padding-right: 18px;
+    }
+    #target p {
+        margin-top: 15px;
+    }
+
+    #awards h1 {
+        font-size: 19px;
+    }
+    .finsk #f_bool3 .our_story h1 {
+        font-size: 23px;
+    }
+    .finsk #f_bool3 .section2 .our_story {
+        margin-top: 0;
+    }
+}
+
+
+@media (max-width: 550px){
+    .finsk .intrin_org h1 {
+        padding-top: 6%;
+    }
+    .section3 .our_story p{
+        font-size: 16px;
+    }
+    .our_story h1 {
+        margin-bottom: 17px
+    }
+    footer {
+        padding-top: 80px;
+    }
+    .urge p {
+        font-size: 18px;
+        letter-spacing: 0;
+        line-height: 24px;
+    }
+    .desem h1 {
+        font-size: 30px;
+    }
+    .desem span {
+        font-size: 77px;
+    }
+    .urge h2 {
+        font-size: 25px;
+    }
+    .sec_row {
+        margin-top: 51%;
+    }
+    .desc_img{
+        display: none;
+    }
+    .desc_text {
+        width: 100%;
+        padding:0 10px ;
+    }
+    .sours p {
+        font-size: 15px;
+    }
+    .desc_imghid{
+        display: block;
+    }
+    .desc_text .desc_head {
+        text-align: center;
+    }
+    .info {
+        margin-top: 40px;
+        font-size: 12px;
+        padding: 5px 10px;
+    }
+
+    .prod_info ul li {
+        font-size: 16px;
+        line-height: 34px;
+    }
+    .info1 li, .info2 li {
+        line-height: 34px;
+        font-size: 14px;
+    }
+    .prod_inf {
+        height: 285px;
+        padding: 35px 0 0;
+    }
+    .info1{
+        width: 55%;
+    }
+    .info2 {
+        width: 45%;
+    }
+    .txt1, .txt2, .txt3 {
+        font-size: 12px;
+    }
+    .saim > .container3 > .our_story > h1 {
+        font-size: 36px;
+    }
+    .far_bg,
+    .spirit_bg ,
+    .water_bg {
+        height: 331px;
+        width: 61%;
+    }
+    .far_sec p, .far_sec h4{
+        padding-right: 16%;
+    }
+    .dis_img,.tradee{
+        width: 100%;
+    }
+    #spirit .f_txt {
+        padding-top: 0;
+    }
+    #spirit .far_sec p,
+    #spirit .far_sec h4 {
+        padding-left: 26%;
+    }
+    .round {
+        right: 10%;
+        top: 16%;
+    }
+    .target_img3, .target_img4{
+        width: 90px;
+        height: 90px;
+    }
+    .txt_c img {
+        margin-top: 126px;
+    }
+    #target p,
+    #target .txt_l p {
+        margin-top: 0;
+    }
+    .firs_logo{
+        width: 155px;
+        padding: 29px 0 0 37px;
+    }
+    .intrin_org p {
+        font-size: 11px;
+        margin-bottom: 0;
+    }
+    .arrow p {
+        width: 37px;
+    }
+    .arrow p a {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 530px){
+    .intrin_org {
+        padding-top: 6%;
+    }
+    .menu_hid {
+        padding-top: 44px;
+    }
+}
+@media (max-width: 500px){
+    .footer_menu ul li a,
+    .footer_menu ul li{
+        font-size: 14px;
+    }
+    .section3 .our_story {
+        margin: 47px auto 0;
+    }
+    .footer_menu {
+        margin-top: 28px;
+        padding: 6px 0 0;
+    }
+    .you_tube {
+        height: 270px;
+    }
+    .lake_img div {
+        height: 111px;
+    }
+    .hamburg{
+        width:50px;
+    }
+    .saima_title p {
+        font-size: 17px;
+        width:100%;
+    }
+    .nor_cont a {
+        width: 163px;
+        font-size: 18px;
+        padding: 8px 5px;
+    }
+    .saima_title a {
+        font-size: 15px;
+        width: 137px;
+        padding: 8px 10px 5px 10px;
+    }
+    #saim_non_img .round_bg>div:first-of-type {
+        margin-right: -76px;
+    }
+    .far_sec p, .far_sec h4 {
+        padding-right: 19%;
+    }
+    #awards h3 {
+        font-size: 14px;
+    }
+    .awards_img {
+        width: 170px;
+        height: 170px
+    }
+    .awards_img img {
+        margin: 15px 31px;
+    }
+    #awards .sec_awar .awards_img img {
+        width: 78%;
+        margin: 16px 16px;
+    }
+    .bg_saima>div {
+        width: 150px;
+        margin-right: -5px;
+        padding-top: 46px;
+    }
+    #saim_bool9 .our_story{
+        margin-top: 10px;
+    }
+    .bg_saima {
+        height: 550px;
+    }
+    .pulse div {
+        height: 228px;
+        width: 277px;
+    }
+    .pulse {
+        padding-top: 576px;
+    }
+
+    .sect {
+        left: 10px;
+    }
+    .sect p {
+        font-size: 13px;
+        padding-top: 0;
+    }
+    .ver_hid ul li,
+    .ver_hid_non ul li {
+        height: 100px;
+        margin: 20px 0;
+    }
+    .ver_hid,.ver_hid_non {
+        height: 240px;
+        top: 30%;
+    }
+    .sect>div {
+        width: 80px;
+        height: 80px;
+    }
+    .sect1_1 {
+        width: 11px;
+    }
+    .sect1-5 {
+        width:19px;
+    }
+}
+@media (max-width: 482px){
+    .finsk #awards h1 {
+        font-size: 18px;
+    }
+    #awards p.award_p {
+        font-size: 14px;
+        margin-top: 30px;
+    }
+    #awards>div>div {
+        margin-top: 28px;
+    }
+    .filter button {
+        font-size: 17px;
+        width: 111px;
+        height: 36px;
+    }
+    .org_fil ,
+    .target .txt_l p{
+        margin-top: 28px;
+    }
+    .finsk #conclusion {
+        margin-bottom: 93px;
+    }
+    #target .txt_c{
+        margin-top: 181px;
+    }
+.about {
+    margin-top: 0;
+}
+    #target .txt_rt,
+    #target .txt_c,
+    #target .txt_l{
+        float: none;
+        width: 89%;
+        margin-bottom:  30px;
+    }
+    .target_img1{
+        float: left;
+    }
+    #target p{
+        margin-top: 80px;
+    }
+    #target .txt_c img {
+        width: 51px;
+        margin: -46px 0 -70px 46%;
+    }
+    #target .txt_c p{
+        text-align: left;
+        margin-top: 32px;
+    }
+    #target .txt_rt p,
+    #target .txt_c p,
+    #target .txt_l p,
+    #target .txt_c h5,
+    #target .txt_rt h5{
+        text-align: left;
+        width: 100%;
+        margin-top: 0;
+    }
+    #target .txt_l{
+        padding-left: 4%;
+    }
+    #spirit .far_sec p,
+    #spirit .far_sec h4 {
+        padding-left: 109px;
+    }
+    .header_l{
+        display: none;
+    }
+    .header_r{
+        width: 100%;
+    }
+    .header_r form h2 {
+        margin: 64px auto 20px;
+    }
+    .first_page header>div.firs_logo {
+        padding: 8px 9px 17px 19px;
+        background: #fff;
+        height: 79px;
+        width: 125px;
+    }
+    .intrin_org h4 {
+        margin-bottom: 8px;
+        font-size: 20px;
+    }
+    .intrin_org p {
+        font-size: 10px;
+    }
+    .finsk .intrin_org p {
+        margin-bottom: 0;
+        font-size: 10px;
+    }
+    .concl {
+        font-size: 15px;
+    }
+    .header_r form h2 {
+        width: 85%;
+    }
+}
+@media (max-width: 470px){
+    .bar {
+        font-size: 35px;
+    }
+    .language span {
+        margin-top: 18px;
+    }
+    .ver_hid_non {
+        top: 27%;
+        width: 165px;
+    }
+    .menu_hid {
+        padding-bottom: 24px;
+    }
+    .bor_rad {
+        width: 152%;
+        margin-left: -26%;
+        border-bottom-right-radius: 800%;
+        border-bottom-left-radius: 800%;
+    }
+    .menu_saim {
+        width: 52%;
+    }
+    .menu_saim ul {
+        margin: 31% 0 12%;
+    }
+    video{
+        width:140%;
+    }
+    .med_story h1 {
+        font-size: 32px;
+    }
+    .sec1 {
+        width: 85%;
+    }
+    .history>div>div {
+        height: 200px;
+    }
+    .history p {
+        font-size: 12px;
+    }
+    .left_sec, .right_sec {
+        width: 80%;
+        position: relative;
+        margin-top: 47%;
+    }
+    .right_sec {
+        margin-top: 0;
+    }
+    .text-right {
+        text-align: left;
+    }
+    .t_r p {
+        float: none;
+    }
+    .map .text-right img {
+        float: left;
+    }
+    .mar_bot1 {
+        margin-top: 11%;
+    }
+    .mar_bot {
+        margin-top: 8%;
+    }
+    .nw_img {
+        height: 233px;
+    }
+    .page_number {
+        margin: 65px auto 111px;
+    }
+    .sec_row {
+        margin-top: 0;
+    }
+    .target_img5,
+    .target_img6{
+        display: none;
+    }
+    #conclusion .txt_c img {
+        margin-top: 33px;
+    }
+    .sec_row>div,
+    .first_row>div{
+        width: 74%;
+        margin: 15px 0 15px 14%;
+    }
+    .fins_futures,
+    .nor_futures,
+    .saim_futures,
+    .norppa_prod,
+    .saimaa_prod,
+    .finsky_prod {
+        position: static;
+        margin-bottom: -105px;
+    }
+    .our_product {
+        padding-bottom: 9%;
+    }
+    .our_product p {
+        font-size: 18px;
+    }
+    .contactt h1 {
+        font-size: 23px;
+    }
+    .contactt form input,
+    .contactt form textarea {
+        font-size: 15px;
+    }
+    .contactt form button {
+        font-size: 15px;
+        padding: 8px 18px;
+        margin-top: 28px;
+    }
+    .contactt form textarea {
+        height: 107px;
+    }
+    .con_us {
+        padding: 35px 20px 38px 34px;
+    }
+    .cont_map {
+        height: 288px;
+    }
+    .contactt {
+        margin-top:17px;
+        height: 917px;
+    }
+    .saim > .container3 > .our_story > h1 {
+        font-size: 30px;
+    }
+    .farm_img {
+        width: 86px;
+        height: 84px;
+    }
+    #spirit .far_sec {
+        margin-left: 3%;
+    }
+    .intrin_org h4 {
+        font-size: 21px;
+    }
+    .slid{
+        margin-left: 4%;
+    }
+    .intrin_org {
+        padding-top: 3%;
+    }
+    .first_org{
+        width: 37%;
+    }
+    .round_bg{
+        width: 63%;
+    }
+    .bg_saima {
+        height: 445px;
+    }
+    .bg_saima>div {
+        width: 126px;
+        margin-right: -8px;
+        padding-top: 30px;
+    }
+    .pulse div {
+        height: 200px;
+        width: 200px;
+    }
+    .pulse {
+        margin-left: -85px;
+        padding-top: 475px;
+    }
+    .ver_hid {
+        top: 25%;
+        width: 165px;
+    }
+    #saim_non_img .round_bg>div:first-of-type {
+        margin-right: -64px;
+    }
+
+    .section2 .our_story.targ {
+        margin-top: 70px;
+    }
+    #saim_bool7 .section2 .our_story {
+        margin-top: 8px;
+    }
+    .section2 .our_story.comp h1 {
+        font-size: 28px;
+    }
+    .header_bg {
+        height: 237px;
+    }
+    .vodka1 {
+        width: 43px;
+        margin: 34px auto 0;
+    }
+    .vodka-title1 {
+        width: 60px;
+        padding: 0 7px;
+    }
+    .vodka2 {
+        width: 46px;
+        margin: -44px auto 0;
+    }
+    .vodka-title2 {
+        margin: 2px auto 0;
+        width: 60px;
+        padding: 5px 11px;
+    }
+    .vodka3 {
+        width: 40px;
+        margin: 34px auto 0;
+    }
+    .vodka-title3 {
+        width: 60px;
+        padding: 3px 5px;
+    }
+    .intrin_org.org_hot h4 {
+        font-size: 15px;
+        padding-top: 16%;
+        line-height: 20px;
+
+    }
+    .ver_hid_new ul li{
+
+        height: 125px;
+    }
+    .ver_hid_new{
+        top: 23%;
+        height: 292px;
+    }
+    .bg_saima_new.bg_saima>div {
+        width: 119px;
+    }
+}
+
+
+@media (max-width: 447px){
+    .footer_menu ul li a,
+    .footer_menu ul li {
+        font-size: 11px;
+    }
+    .footer_menu ul li span {
+        margin: 0 8px;
+    }
+    .agric {
+        margin-top: 35px;
+    }
+    .phone {
+        margin: 35px auto 0;
+
+    }
+    .med_story h1 {
+        font-size: 32px;
+    }
+    footer {
+        padding-top: 56px;
+    }
+    .desc {
+        padding-top: 22px;
+    }
+    .far_bg,
+    .spirit_bg ,
+    .water_bg {
+        height: 234px;
+        width: 54%;
+    }
+    .dis_img div {
+        height: 165px;
+    }
+    .finsk header {
+        margin-bottom: 0;
+    }
+    .finsk #competitive{
+        margin-top: 0;
+    }
+
+    .arrow p {
+        width: 37px;
+    }
+    .arrow {
+        left: 21%;
+    }
+    .finsk .intrin_org h1 {
+        padding-top: 10%;
+        font-size: 32px;
+    }
+    .finsk .intrin_org h4 {
+        margin-bottom: 22px;
+        font-size: 18px;
+    }
+    .about p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .agricc>div{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .agric p {
+        font-size: 13px;
+        line-height: 15px;
+    }
+    .desc_text .desc_head {
+        font-size: 30px;
+    }
+    .contactt {
+        margin-bottom: 0;
+    }
+    #conclusion .txt_rt p,
+    #conclusion .txt_l p.stud{
+        font-size: 10px;
+        width: 100%;
+    }
+
+}
+
+
+@media (max-width: 420px){
+    .logo {
+        padding-top: 30px;
+    }
+    .hamburg {
+        padding-top: 49px;
+    }
+    .menu_hid {
+        padding-bottom: 51px;
+	top: 117px;
+    }
+    .history p {
+        font-size: 10px;
+        width: 95%;
+    }
+    .our_story p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .lake_img div {
+        height: 92px;
+
+    }
+    .our_story h4 {
+        font-size: 18px;
+        margin-bottom: 32px;
+    }
+    .newOp {
+        height: 300px;
+    }
+    .urge h2 {
+        font-size: 19px;
+    }
+    .urge p {
+        font-size: 15px;
+    }
+    .desc_text .desc_head {
+        font-size: 30px;
+    }
+    .sours p {
+        font-size: 12px;
+    }
+    .about button {
+        margin-top: 46px;
+        margin-bottom: 37px;
+    }
+    .menu {
+        padding-top: 36px;
+    }
+    .prod_info ul li {
+        font-size: 13px;
+        line-height: 30px;
+    }
+    .prod_inf {
+        height: 245px;
+    }
+    .limited .box_shad {
+        padding-bottom: 25px;
+    }
+    .play {
+        margin: 31px auto 26px;
+    }
+    .saima_title a {
+        font-size: 11px;
+        width: 98px;
+        padding: 6px 10px 5px 10px;
+    }
+    .saim .language,
+    .finsk .language{
+        padding-top: 33px;
+        width: 50px;
+    }
+    .language span{
+        font-size: 12px;
+    }
+    .lang-slash {
+        margin: 0 3px;
+    }
+    #competitive {
+        padding: 24px 0 30px;
+    }
+    .slider {
+        padding-bottom: 50px;
+    }
+    video{
+        width:150%;
+    }
+    .header_r p, .header_r p span {
+        font-size: 13px;
+    }
+}
+
+
+@media (max-width: 405px){
+    .filter button {
+        font-size: 15px;
+        width: 96px;
+        height: 35px;
+        margin-right: 0;
+    }
+    .saima .menu {
+        padding-top: 62px;
+    }
+    .saim > .container3 > .our_story > h1 {
+        font-size: 27px;
+    }
+    .you_tube {
+        height: 215px;
+    }
+    .far_sec p, .far_sec h4 {
+        padding-right: 11%;
+    }
+    .farm_img {
+        width: 63px;
+        height: 63px;
+        border-width: 4px;
+    }
+    #awards p {
+        font-size: 13px;
+    }
+    .far_sec {
+        margin-bottom: 19px;
+    }
+
+    .awards_img {
+        margin: 36px auto;
+    }
+    #awards>div>div {
+        margin-top: 55px;
+    }
+    .saim .language,
+    .finsk .language {
+        padding-top: 27px;
+    }
+    .hamburg {
+        padding-top: 47px;
+    }
+    #spirit .far_sec p, #spirit .far_sec h4 {
+        padding-left: 86px;
+    }
+}
+@media (max-width:385px) {
+    .med_story h1 {
+        font-size: 32px;
+    }
+
+    .nor_cont p {
+        font-size: 3vw;
+        line-height: 11px;
+    }
+    .menu_saim {
+        width: 55%;
+        padding-left: 15px;
+    }
+    .bg-video, .menu_saim {
+        height: 293px;
+    }
+    .menu_saim ul li a {
+        font-size: 10px;
+    }
+    .saima .saima_title p {
+        font-size: 11px;
+    }
+    .finsk .menu_saim li {
+        margin-bottom: 0;
+    }
+    .finsk .intrin_org h4{
+        margin: 0;
+    }
+    .nor_log {
+        margin: 35px auto 27px;
+    }
+    .finsk .intrin_org h1{
+        padding-top: 0;
+        margin: 0;
+    }
+    .finsk .intrin_org p{
+        font-size: 10px;
+    }
+    .nor_cont a {
+        margin: 46px auto 0;
+    }
+    video {
+        width: 170%;
+    }
+    .saima .saima_title p {
+        font-size: 9px;
+    }
+}
+@media (max-width:370px){
+
+    .agric_img {
+        width: 24px;
+        height: 92px;
+    }
+    .newOp {
+        height: 239px;
+    }
+    .nw_img {
+        height: 170px;
+    }
+    .menu_hid {
+        padding-bottom: 56px;
+    }
+    .desc_text .desc_head {
+        font-size: 24px;
+    }
+    .cont {
+        width: 88.5%;
+    }
+    .our_product {
+        padding-bottom: 0;
+    }
+    .saima .menu {
+        padding-top:47px;
+    }
+    .hamburg {
+        padding-top: 48px;
+    }
+    .far_sec p, .far_sec h4 {
+        padding-right: 14%;
+    }
+    .first_org {
+        width: 29%;
+    }
+    .round_bg {
+        width: 71%;
+    }
+    .bg_saima>div {
+        width: 86px;
+        margin-top: -4px;
+        margin-right: -4px;
+    }
+    .bg_saima>div img {
+        margin-bottom: 4px;
+    }
+    .bg_saima_new.bg_saima>div {
+        width: 82px;
+    }
+    .bg_saima {
+        height: 313px;
+    }
+    .pulse {
+        margin-left: -116px;
+        padding-top: 325px;
+    }
+    .sect1_1.sect1_2 {
+        width: 10px;
+    }
+    .ver_hid ul li,
+    .ver_hid_non ul li {
+        height: 76px;
+    }
+    .ver_hid,.ver_hid_non {
+        top: 20%;
+        height: 193px;
+    }
+    .sect>div {
+        width: 60px;
+        height: 60px;
+    }
+    .sect1_1 {
+        width: 8px;
+        margin:5px auto 0;
+    }
+    .finsk .intrin_org {
+        padding-left: 25%;
+        height: 250px;
+    }
+    .finsk .arrow {
+        left: 26.5%;
+    }
+    .finsk .intrin_org h1 {
+        padding-top: 4%;
+    }
+    .header_r p {
+        font-size: 15px;
+    }
+    .header_r .copy {
+        font-size: 9px;
+    }
+    .header_r button {
+        font-size: 15px;
+    }
+    .header_r form h2 {
+        font-size: 10px;
+    }
+    .sect p {
+        font-size: 11px;
+    }
+    .copyright p {
+        font-size: 8px;
+    }
+    .sect1-5 {
+        width: 15px;
+    }
+    .ver_hid_new{
+        height: 220px;
+        top: 19%;
+    }
+    .ver_hid_new ul li{
+        height: 90px;
+    }
+}
+
+
+@media (max-width:342px){
+    .filter button {
+        font-size: 13px;
+        width: 85px;
+    }
+    .menu {
+        padding-top: 30px;
+    }
+    .info2 {
+        width: 41%;
+        padding-left: 3%;
+    }
+    .info1 {
+        width: 59%;
+        padding-left: 3%;
+    }
+    .far_bg,
+    .spirit_bg ,
+    .water_bg {
+        height: 188px;
+        width: 53%;
+    }
+    .bg-video, .menu_saim {
+        height: 274px;
+    }
+    .play {
+        margin: 11px auto 22px;
+    }
+    #competitive {
+        padding: 32px 0 45px;
+    }
+    #saim_non_img .round_bg>div:first-of-type {
+        margin-right: -29px
+    }
+    .finsk .intrin_org h1 {
+        font-size: 28px;
+    }
+    .intrin_org h4 {
+        font-size: 16px;
+        margin-bottom: 11px;
+    }
+    .finsk .arrow {
+        top: 90%;
+    }
+    .slider {
+        padding-bottom:0;
+    }
+}
+
+@media (max-width:1025px) and (max-height: 1366px){
+    .header_r h1 {
+        font-size: 65px;
+    }
+}
+
+
+@media (max-width:1300px) and (max-height: 830px){
+    .header_r form h2 {
+        font-size: 19px;
+    }
+
+    .header_r {
+        padding-top: 93px;
+    }
+    .header_r p:empty {
+        margin: 60px auto 67px;
+    }
+    .s_bott {
+        width: 27%;
+        right: -15%;
+    }
+    .header_r input[type="text"],
+    .header_r button{
+        font-size: 20px;
+        padding: 10px 0;
+        width: 14%;
+    }
+
+}
+@media (max-width:1100px) and (max-height: 665px){
+    .header_r form h2 {
+        font-size: 16px;
+    }
+    .header_r .copy {
+        font-size: 11px;
+    }
+    .header_r h1 {
+        font-size: 57px;
+        padding-bottom: 9px;
+    }
+    .header_r p {
+        font-size: 20px;
+    }
+    .header_r p:empty {
+        margin: 51px auto 52px;
+    }
+    .header_r button {
+        margin: 51px 0 47px;
+    }
+}
+@media (max-width:930px) and (max-height: 580px){
+    .s_bott {
+        width: 33%;
+    }
+
+    .header_r {
+        width:100%;
+    }
+    .header_l {
+        width: 36%;
+    }
+    .header_r input[type="text"],
+    .header_r button {
+        font-size: 18px;
+        padding: 7px 0;
+        width: 11%;
+        margin-right: 14px;
+    }
+    .header_r button {
+        font-size: 30px;
+        width: 20%;
+        margin: 32px 0 22px;
+    }
+}
+@media (max-width:730px) and (max-height: 530px){
+    .header_r form h2 {
+        font-size: 14px;
+    }
+    .header_r button {
+        font-size: 22px;
+    }
+    .header_r h1 {
+        font-size: 50px;
+    }
+    .header_r {
+        padding-top: 44px;
+    }
+    .header_r p {
+        font-size: 18px;
+    }
+    .header_r input[type="checkbox"] {
+        width: 26px;
+        height: 26px;
+    }
+    .header_r label{
+        top:-7px;
+    }
+}
+@media (max-width:640px) and (max-height: 360px){
+    .header_r {
+        padding-top: 10px;
+    }
+}
+@media (max-width:850px) and (max-height: 790px){
+    .nor_cont p {
+        font-size: 19px;
+        line-height: 26px;
+    }
+    .nor_log {
+        margin: 22px auto 75px;
+    }
+    .nor_cont a {
+        margin: 18% auto 0;
+    }
+}
+@media (max-width:420px) and (max-height: 740px) {
+    .header_r p, .header_r p span {
+        font-size: 15px;
+    }
+    .header_r h1 {
+        padding-bottom: 6px;
+    }
+    .header_r p:empty {
+        margin: 40px auto 39px;
+    }
+    .header_r input[type="text"], .header_r button {
+        font-size: 16px;
+        padding: 4px 0;
+    }
+    .header_r input[type="checkbox"] {
+        width: 21px;
+        height: 21px;
+    }
+    .header_r label{
+        top: -3px;
+    }
+    .header_r form h2 {
+        margin: 3px auto 20px;
+    }
+}
+
+@media (max-width:540px) and (max-height: 590px){
+    .nor_cont p {
+        font-size: 20px;
+        line-height: 15px;
+    }
+    .norpppa_logo div {
+        width: 152px;
+        padding: 42px 0 0 19px;
+    }
+}
+@media (max-width:615px) and (max-height: 610px){
+    .nor_cont p {
+        font-size:14px;
+        word-spacing: 0;
+        line-height: 19px;
+    }
+}
+@media (max-width:640px) and (max-height: 460px){
+    .header_l {
+        width: 25%;
+    }
+
+    .s_bott {
+        width: 47%;
+        right: -25%;
+    }
+    .header_r {
+        width: 75%;
+    }
+    .header_r h1 {
+        font-size: 40px;
+        padding-bottom: 0;
+    }
+    .header_r p:empty {
+        margin: 34px auto 33px;
+    }
+    .header_r input[type="text"],
+    .header_r button {
+        font-size: 15px;
+        padding: 3px 0;
+    }
+    .header_r button {
+        font-size: 19px;
+        width: 16%;
+        margin: 23px 0 22px;
+    }
+    .header_r form h2 {
+        font-size: 12px;
+    }
+}
+@media (max-width:376px) and (max-height: 670px) {
+    .header_r button {
+        font-size: 13px;
+        margin: 33px 0 47px;
+    }
+    .header_r input[type="text"],
+    .header_r button {
+        font-size: 14px;
+        padding: 3px 0;
+    }
+    .header_r input[type="checkbox"] {
+        width: 21px;
+        height: 21px;
+    }
+
+}
+@media (max-width:500px) and (max-height: 400px) {
+    .nor_cont a {
+        width: 148px;
+        margin: 13% auto 0;
+        font-size: 14px;
+        padding: 10px 0px;
+    }
+}
+@media (max-width:3250px) and (max-height: 485px) {
+    .header_r p:empty {
+        margin: 20px auto 26px;
+    }
+
+    .header_r form h2 {
+        width: 87%;
+    }
+}

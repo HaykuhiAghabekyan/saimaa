@@ -1,0 +1,11 @@
+<?php
+$mysqli=mysqli_connect('mysql01.yritysweb.fi','w8304387db','ebweiek','w8304387db');
+if(!$mysqli){
+	echo "Ошибка: Невозможно установить соединение с MySQL." . PHP_EOL;
+    echo "Код ошибки errno: " . mysqli_connect_errno() . PHP_EOL;
+    echo "Текст ошибки error: " . mysqli_connect_error() . PHP_EOL;
+    exit;
+}
+	mysqli_set_charset($mysqli,'utf-8');
+
+?>
